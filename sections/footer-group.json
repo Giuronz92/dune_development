@@ -35,8 +35,7 @@
       "settings": {
         "color_scheme": "background-1",
         "newsletter_enable": true,
-        "newsletter_heading": "Iscriviti alla newsletter per ricevere un coupon del 10% di sconto",
-        "enable_follow_on_shop": true,
+        "newsletter_heading": "Subscribe to our emails",
         "show_social": true,
         "enable_country_selector": false,
         "enable_language_selector": false,

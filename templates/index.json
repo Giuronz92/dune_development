@@ -36,7 +36,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Tacchini_prodotto_Elephant_immagineprincipale_jpg_1200x900px_max350Kb__Tacchini-White2_SilviaRivoltella-20_jpg.webp",
-        "image_2": "shopify:\/\/shop_images\/Tacchini_prodotto_Elephant_slider1_jpg_1440x1060px_max300Kb__Tacchini-White2_SilviaRivoltella-05_jpg.webp",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "middle-right",
@@ -44,7 +43,7 @@
         "desktop_content_alignment": "right",
         "color_scheme": "inverse",
         "image_behavior": "zoom-in",
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "right",
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
