@@ -29,7 +29,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Ultimi articoli",
-            "button_link_1": "",
+            "button_link_1": "shopify:\/\/blogs\/mosi-community",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -43,8 +43,7 @@
         "template--21168036643101__7302c9e3-b6ae-4da9-be69-0aa35fbc35da-buttons-1"
       ],
       "custom_css": [
-        ".banner__box,.content-container {width: 70%; border-radius: 110px; background: linear-gradient(0deg, rgba(255, 255, 255, 0.7), transparent), linear-gradient(180deg, rgba(255, 255, 255, 0.7), transparent);}",
-        ".banner__buttons {background-color: black !important; color: white !important;}"
+        ".banner__box,.content-container {width: 70%; border-radius: 110px; background: linear-gradient(0deg, rgba(255, 255, 255, 0.7), transparent), linear-gradient(180deg, rgba(255, 255, 255, 0.7), transparent);}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/trend-arredamento-2023.jpg",
@@ -57,7 +56,7 @@
         "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "6e7580bb-34ae-4cc4-b11c-25b18ea4d009": {
