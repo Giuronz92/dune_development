@@ -29,7 +29,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-
+        "p {font-size: 50px;}"
       ],
       "settings": {
         "logo_position": "middle-left",
