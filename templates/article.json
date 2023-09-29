@@ -3,10 +3,10 @@
     "main": {
       "type": "main-article",
       "blocks": {
-        "featured_image": {
+        "1cf29a5f-a91a-4c80-acef-fff2d4a5fd9c": {
           "type": "featured_image",
           "settings": {
-            "image_height": "adapt"
+            "image_height": "medium"
           }
         },
         "title": {
@@ -23,15 +23,22 @@
           }
         },
         "content": {
-          "type": "content"
+          "type": "content",
+          "settings": {
+          }
         }
       },
       "block_order": [
-        "featured_image",
+        "1cf29a5f-a91a-4c80-acef-fff2d4a5fd9c",
         "title",
         "share",
         "content"
-      ]
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
