@@ -112,30 +112,31 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "woodmotion"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "poltrona-trabucco",
             "second_image": false
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "b8181eb3-7452-4f26-aa27-7a0f8d119266": {
+          "type": "product",
           "settings": {
-            "collection": ""
+            "product": "poltrona-minu",
+            "second_image": false
           }
         }
       },
       "block_order": [
         "collection-0",
         "product",
-        "collection-1"
+        "b8181eb3-7452-4f26-aa27-7a0f8d119266"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "Collezioni",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
